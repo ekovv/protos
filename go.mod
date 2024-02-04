@@ -1,4 +1,4 @@
-module protos
+module github.com/ekovv/protos
 
 go 1.21
 
